@@ -1,0 +1,11 @@
+<div id="FlashContainId" style="">
+        <object id="gameflash" width="640" height="480" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0">
+            <param name="movie" value="http://img.3366img.com/fileupload/flash/22/47922.swf?cc=1309246498">
+            <param name="allowScriptAccess" value="sameDomain"><param name="allowNetworking" value="internal">
+            <param name="flashvars" value="pagedomain=www.3366.com&amp;pid=47922&amp;adId=&amp;uin=0&amp;platform=1&amp;cantakephoto=undefined&amp;apiflag=0&amp;channelId=,200000&amp;xpos=0&amp;ypos=0&amp;xspan=0&amp;yspan=0">
+            <param name="quality" value="high"><param name="wmode" value="opaque">
+            <param name="base" value="http://img.3366img.com/fileupload/flash/22/47922/">
+            <embed name="gameflash" src="http://img.3366img.com/fileupload/flash/22/47922.swf?cc=1309246498" width="640" height="480" base="http://img.3366img.com/fileupload/flash/22/47922/" flashvars="pagedomain=www.3366.com&amp;pid=47922&amp;adId=&amp;uin=0&amp;platform=1&amp;cantakephoto=undefined&amp;apiflag=0&amp;channelId=,200000&amp;xpos=0&amp;ypos=0&amp;xspan=0&amp;yspan=0" allowscriptaccess="sameDomain" allownetworking="internal" wmode="opaque" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash">
+                 
+        </object>
+    </div>
